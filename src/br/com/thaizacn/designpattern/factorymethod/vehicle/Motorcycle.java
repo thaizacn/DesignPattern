@@ -1,4 +1,4 @@
-package src.br.com.thaizacn.designpattern.vehicle;
+package src.br.com.thaizacn.designpattern.factorymethod.vehicle;
 
 public class Motorcycle implements IVehicle {
     @Override

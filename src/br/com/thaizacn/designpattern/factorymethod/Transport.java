@@ -1,6 +1,6 @@
-package src.br.com.thaizacn.designpattern;
+package src.br.com.thaizacn.designpattern.factorymethod;
 
-import src.br.com.thaizacn.designpattern.vehicle.IVehicle;
+import src.br.com.thaizacn.designpattern.factorymethod.vehicle.IVehicle;
 
 public abstract class Transport {
 

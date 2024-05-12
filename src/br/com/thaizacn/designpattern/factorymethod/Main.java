@@ -1,4 +1,4 @@
-package src.br.com.thaizacn.designpattern;
+package src.br.com.thaizacn.designpattern.factorymethod;
 
 import java.util.Scanner;
 
