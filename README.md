@@ -1,4 +1,4 @@
-# 🚀 Design Pattern
+# 🚀 Design Patterns
 Design Patterns são como modelos prontos para resolver problemas comuns em desenvolvimento de software, ou seja, em vez de reinventar a roda a cada situação, os Design Patterns fornecem um vocabulário compartilhado para discutir e implementar soluções comprovadas. <br>
 Este repositório visa reunir as praticas estudadas durante o curso [Design Patterns com Java - Entendendo Padrões de Projetos](https://www.udemy.com/course/curso-design-patterns-java/learn/lecture/23141066#overview) da escola [Hcode Treinamentos](https://www.udemy.com/user/hcode/) na Udemy.
 
