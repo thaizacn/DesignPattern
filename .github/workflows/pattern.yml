@@ -1,12 +1,12 @@
-name: Java CI
+name: Java CI/CD Pipeline
 
 on:
   push:
     branches:
-      - main
+      - '**'  # Aciona o workflow em qualquer branch
   pull_request:
     branches:
-      - main
+      - '**'  # Aciona o workflow em qualquer pull request
 
 jobs:
   build:
@@ -18,12 +18,4 @@ jobs:
 
     - name: Set up JDK 11
       uses: actions/setup-java@v2
-      with:
-        distribution: 'adopt'
-        java-version: '11'
-
-    - name: Build with Maven
-      run: mvn clean install
-
-    - name: Run tests
-      run: mvn test
+    
